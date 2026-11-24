@@ -38,7 +38,7 @@
 
 ### GitHub Pages
 
-[https://xcixcode.github.io/Animal-Go-Draw/](https://xcixcode.github.io/Animal-Go-Draw/)
+https://xcixpkim.github.io/Animal-Go-Draw/
 
 ### 로컬에서 실행
 
